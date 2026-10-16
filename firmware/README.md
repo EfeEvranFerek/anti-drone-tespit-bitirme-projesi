@@ -1,0 +1,1 @@
+Mikrodenetleyici gömülü yazılımı.
