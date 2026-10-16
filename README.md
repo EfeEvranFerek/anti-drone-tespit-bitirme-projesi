@@ -26,4 +26,4 @@ Danışman: Doç. Dr. Muhammet Garip
 | experiments | Deney kayıtları |
 
 ## İş Planı
-Görevler ve takvim:
+Görevler ve takvim: https://github.com/users/EfeEvranFerek/projects/1
