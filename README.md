@@ -1,4 +1,4 @@
-# İki Kameralı Pasif Optik Anti-Drone Tespit ve Konumlandırma Sistemi
+# İki Kameralı Pasif Drone Tespit Takip ve Konumlandırma Sistemi
 
 Yıldız Teknik Üniversitesi, Mekatronik Mühendisliği, MKT4111 Mekatronik Sistem Tasarımı, 2026-2027 Güz
 
